@@ -32,3 +32,9 @@ Includes multiple features for trend analysis and visualization
 * Found correlations between important variables
 * Highlighted anomalies and patterns
 * Provided actionable recommendations based on data
+
+### 💡 Future Improvements
+* Add Machine Learning models for prediction
+* Deploy interactive dashboard using Streamlit
+* Automate data pipeline
+* Integrate real-time data
